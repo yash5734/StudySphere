@@ -75,7 +75,7 @@ exports.getFeedback = (
     <body>
         <div class="container">
             <a href="https://studynotion-edtech-project.vercel.app"><img class="logo"
-                    src="https://i.ibb.co/7Xyj3PC/logo.png" alt="StudyNotion Logo"></a>
+                    src="https://i.ibb.co/7npKVwP/studysphere.png" alt="StudyNotion Logo"></a>
             <div class="message">Feedback From ${firstname} ${lastname}</div>
             <div class="body">
                 <p>Message: ${message}</p>
